@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "8142",
+      "name": "Air Jordan 1 Baixo \"Jogo Royal\".",
+      "price": 899,
+      "description": "O Air Jordan 1 Low OG refaz o tênis clássico com novas cores e texturas. Materiais e detalhes premium dão uma nova expressão a um favorito de todos os tempos.\n\nTeste de alteração da descrição.",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f0939982-bc52-42e0-b529-0ad2bc1654c5/AIR+JORDAN+1+RETRO+LOW+OG.png"
+    },
+    {
+      "id": "9451",
+      "name": "Air Jordan 1 Mid SE",
+      "price": 999,
+      "description": "Este AJ1? É um showstopper. Couro envernizado brilhante acrescenta brilho e estilo premium, enquanto detalhes prateados se destacam para um visual luxuoso.",
+      "image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f3eb0cb-320c-431b-a0ab-b397791ca9ac/AIR+JORDAN+1+MID+SE.png"
+    },
+    {
+      "id": "7339",
+      "name": "teste",
+      "price": 899,
+      "description": "teste ",
+      "image": "https://imgnike-a.akamaihd.net/360x360/029439BPA1.jpg"
+    }
+  ]
+}
